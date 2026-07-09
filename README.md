@@ -29,8 +29,8 @@ Live Demo: https://syedahmed-web.github.io/Scientific-Calculator-Java/
 Developed by Syed Ahmed Shah Quadri as part of an internship task
 
 
-### 1. Clone the Repository
-```bash
-git clone https://github.com/SYEDAHMED-WEB/Scientific-Calculator-Java.git
+## 📄 License
+
+This project is open source and available under the **MIT License**.
 
 
