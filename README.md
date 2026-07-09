@@ -25,8 +25,12 @@ Live Demo: https://syedahmed-web.github.io/Scientific-Calculator-Java/
 - Visual Studio Code
 - GitHub Pages (for deployment)
 
-## 📥 Installation & Running Locally
+## ✨ Author
+Developed by Syed Ahmed Shah Quadri as part of an internship task
+
 
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/SYEDAHMED-WEB/Scientific-Calculator-Java.git
+
+
